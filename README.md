@@ -26,4 +26,4 @@ I'm Pedro a Brazilian developer 🇧🇷. Welcome to my GitHub page! 🚀
 [![AWS Certified Cloud Practitioner](https://images.credly.com/size/100x100/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png)](https://www.credly.com/badges/f3d79761-576a-4f54-95e0-e78a5c18e30e/public_url "AWS Certified Cloud Practitioner")
 
 ## 🌐 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/pedro-henrique-de-avila-tonin-6b96801a1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-de-avila-tonin-6b96801a1/)
