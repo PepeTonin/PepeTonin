@@ -12,7 +12,7 @@ I'm Pedro a Brazilian developer 🇧🇷. Welcome to my GitHub page! 🚀
 👨‍💻 I have a strong passion for TypeScript and Python
 
 ## 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nextjs,js,ts,html,css,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,fastapi,selenium)](https://skillicons.dev)
 
