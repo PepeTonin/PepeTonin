@@ -3,13 +3,11 @@
 I'm Pedro a Brazilian developer 🇧🇷. Welcome to my GitHub page! 🚀
 
 ## 😊 About Me
-🏗️ Former Civil Engineer with 4 years of experience
+🏗️ Former Civil Engineer turned coder
 
-💻 Recently transitioned to the field of software development
+📱 Mobile Developer at [Corebiz](https://www.corebiz.ag/en/), building apps with TypeScript & React Native
 
-📱 Currently working as a Mobile Developer at [Compass UOL](https://compass.uol/en/home/)
-
-👨‍💻 I have a strong passion for TypeScript and Python
+👨‍🏫 Software Engineering Professor, sharing knowledge
 
 ## 🛠 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,tailwind)](https://skillicons.dev)
